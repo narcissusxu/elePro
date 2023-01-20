@@ -1,0 +1,24 @@
+.main-container {
+    height: inherit;
+}
+
+.main-container-head {
+    font-size: 52pt;
+    height: 8vh;
+    border-left: #2c3e50 8px solid;
+    padding-left: 2.5rem;
+    color: #17233d;
+}
+
+.main-container-content {
+    padding: .2rem;
+    height: 87vh;
+    color: #515a6e;
+}
+
+.main-container-foot {
+    text-align: center;
+    height: 4vh;
+    color: #808695;
+    font-weight: lighter;
+}
